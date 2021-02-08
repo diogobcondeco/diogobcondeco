@@ -25,6 +25,8 @@
 	</p>
 </div>
 
+<h3>🚦 Statistics</h3>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=diogobcondeco&include_all_commits=true&count_private=true&show_icons=true&text_color=daf7dc&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobcondeco&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/diogobcondeco/github-readme-stats)
