@@ -1,4 +1,4 @@
-<h1> Hi, I'm Diogo - aka Jamie <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1> Hi, I'm Diogo - aka Jamie <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="300"/>
 
 [![Website](https://img.shields.io/website?label=diogobcondeco.com&style=for-the-badge&url=https%3A%2F%2Fdiogobcondeco.com)](https://diogobcondeco.com)
@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobcondeco&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/diogobcondeco/github-readme-stats)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+<h3>𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diogobcondeco.diogobcondeco)
 
