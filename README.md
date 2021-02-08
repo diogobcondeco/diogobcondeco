@@ -1,5 +1,5 @@
 <h1> Hi, I'm Diogo - aka Jamie <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="400"/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="300"/>
 
 [![Website](https://img.shields.io/website?label=diogobcondeco.com&style=for-the-badge&url=https%3A%2F%2Fdiogobcondeco.com)](https://diogobcondeco.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/diogobcondeco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdiogobcondeco&screen_name=diogobcondeco)
@@ -32,21 +32,6 @@
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diogobcondeco.diogobcondeco)
-
-<!--
-**diogobcondeco/diogobcondeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ⭐️ From [diogobcondeco][github]
 
