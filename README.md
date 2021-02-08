@@ -26,9 +26,9 @@
 
 <h3>🚦 Statistics</h3>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=diogobcondeco&include_all_commits=true&count_private=true&show_icons=true&text_color=daf7dc&bg_color=151515)
+![github stats](https://github-readme-stats.vercel.app/api?username=diogobcondeco&include_all_commits=true&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobcondeco&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/diogobcondeco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobcondeco&layout=compact)](https://github.com/diogobcondeco/github-readme-stats)
 
 <h3>𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀</h3>
 
@@ -36,7 +36,7 @@
 
 ⭐️ From [diogobcondeco][github]
 <!--
-
+&text_color=daf7dc&bg_color=151515
 <div>
 	<h3> 💻 Languages and Tools </h3>
 	<p>
