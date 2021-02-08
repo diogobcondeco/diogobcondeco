@@ -24,13 +24,13 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<h3>🚦 Statistics</h3>
+### 🚦 Statistics
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=diogobcondeco&include_all_commits=true&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobcondeco&layout=compact)](https://github.com/diogobcondeco/github-readme-stats)
 
-<h3>𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀</h3>
+### 🙋‍♂️ 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diogobcondeco.diogobcondeco)
 
