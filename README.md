@@ -21,9 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
 ### 🚦 Statistics
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=diogobcondeco&include_all_commits=true&count_private=true&show_icons=true)
@@ -35,7 +32,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diogobcondeco.diogobcondeco)
 
 ⭐️ From [diogobcondeco][github]
+
 <!--
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 &text_color=daf7dc&bg_color=151515
 <div>
 	<h3> 💻 Languages and Tools </h3>
