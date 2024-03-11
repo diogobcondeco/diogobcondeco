@@ -12,14 +12,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231572B6?style=flat-square&logo=tailwindcss)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
+<!--
 ### 🚦 Statistics
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=diogobcondeco&include_all_commits=true&count_private=true&show_icons=true)
@@ -29,6 +28,7 @@
 ### 🙋‍♂️ 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diogobcondeco.diogobcondeco)
+-->
 
 ⭐️ From [diogobcondeco][github]
 
